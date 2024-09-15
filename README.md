@@ -1,5 +1,5 @@
 
-## Abstract
+## Project Overview: Classification of BLOODMINST Dataset with DNN and CNN
 
 This project focuses on the classification of the BLOODMINST dataset using both Deep Neural Networks (DNN) and Convolutional Neural Networks (CNN). The dataset consists of 17,092 3-channel images across 8 classes. We normalized the pixel values and split the data into training, validation, and test sets.
 
